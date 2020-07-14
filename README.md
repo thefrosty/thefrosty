@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Austin ⛄️
+
+<p align="center">
+  ![GitHub followers](https://img.shields.io/github/followers/thefrosty?style=social) 
+  ![Twitter Follow](https://img.shields.io/twitter/follow/thefrosty)
+</p>
 
 <!--
 **thefrosty/thefrosty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
