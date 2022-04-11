@@ -6,6 +6,8 @@
 
 - 👨🏽‍💻 Lead Engineer for Beachbody (Leading all WordPress development)
 - ⚾️ Dodgers fanatic.
+- 🏌🏼‍♂️ Golfer.
+- 🥎 Softball-er.
 - 🍿 #Plex nerd.
 - 🚙 '15 #WRX & '66 #CorvetteC2.
 - ⚡️ PHP is the way!
