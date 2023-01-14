@@ -4,7 +4,7 @@
 [![Twitter Follows](https://img.shields.io/twitter/follow/thefrosty?style=for-the-badge&logo=twitter)](https://twitter.com/thefrosty/) 
 [![Donate with $DOGE](https://img.shields.io/static/v1?style=for-the-badge&logo=dogecoin&label=Donations&message=DFMbUjdxuQNJnbA622e7TNSJ3yxAdAWZEW&color=ba9f33)](#)  
 
-- 👨🏽‍💻 Lead Engineer for Beachbody (Leading all WordPress development)
+- 👨🏽‍💻 WordPress Engineer; w/ 12+ years of experience.
 - ⚾️ Dodgers fanatic.
 - 🏌🏼‍♂️ Golfer.
 - 🥎 Softball-er.
