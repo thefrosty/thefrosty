@@ -4,12 +4,13 @@
 [![Twitter Follows](https://img.shields.io/twitter/follow/thefrosty?style=for-the-badge&logo=twitter)](https://twitter.com/thefrosty/) 
 [![Donate with $DOGE](https://img.shields.io/static/v1?style=for-the-badge&logo=dogecoin&label=Donations&message=DFMbUjdxuQNJnbA622e7TNSJ3yxAdAWZEW&color=ba9f33)](#)  
 
-- 👨🏽‍💻 WordPress Engineer; w/ 12+ years of experience.
+- 👨🏽‍💻 Principle Software Engineer; content.
+- 💻 WordPress Engineer; w/ 14+ years of experience.
 - ⚾️ Dodgers fanatic.
 - 🏌🏼‍♂️ Golfer.
 - 🥎 Softball-er.
 - 🍿 #Plex nerd.
-- 🚙 '15 #WRX & '66 #CorvetteC2.
+- 🚙 '15 #WRX, '66 #CorvetteC2, & '23 Tesla Model 3.
 - ⚡️ PHP is the way!
 
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefrosty&show_icons=true&theme=dark)
