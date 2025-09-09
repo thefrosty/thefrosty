@@ -12,7 +12,3 @@
 - 🍿 #Plex nerd.
 - 🚙 '15 #WRX, '66 #CorvetteC2, & '23 Tesla Model 3.
 - ⚡️ PHP is the way!
-
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefrosty&show_icons=true&theme=dark)
-
-_This doesn't show my private contributions (you can see those below)._
